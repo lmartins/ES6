@@ -1,0 +1,9 @@
+{
+  "name": "Ripple",
+  "paths": [
+    "mycomponents"
+  ],
+  "local": [],
+  "dependencies": {
+  }
+}
